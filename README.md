@@ -2,9 +2,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on **OctoberMainJam**
+- 🔭 I’m currently working on **smth**
 
-- 🌱 I’m currently learning **C# for making games**
+- 🌱 I’m currently learning **C++ for making games**
 
 - 🎮 Head coder in [https://github.com/Team-G-E-R](https://github.com/Team-G-E-R)
 
